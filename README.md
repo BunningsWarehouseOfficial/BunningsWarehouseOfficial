@@ -2,7 +2,7 @@
 
 👀 I’m interested in deep learning, space exploration, sustainability, rocketry, longevity, investing, data from my life and technology in general
 
-🌱 I’m currently learning about .NET/C#, data mining, and training custom state-of-the-art computer vision model implementations
+🌱 I’m currently learning about .NET/C#, data mining, and state-of-the-art computer vision models
 
 📫 Contact: <br>
 Twitter: [@kristian_rados](twitter.com/kristian_rados) <br>
