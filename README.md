@@ -4,6 +4,8 @@
 
 🌱 I’m currently learning about .NET/C#, data mining, and state-of-the-art computer vision models
 
+😒 Most of my interesting code has to be kept private for now, stay tuned...
+
 📫 Contact: <br>
 Twitter: [@kristian_rados](twitter.com/kristian_rados) <br>
 LinkedIn: [@kristian-rados](www.linkedin.com/in/kristian-rados/) <br>
