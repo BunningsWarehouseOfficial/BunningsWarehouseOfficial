@@ -2,7 +2,7 @@
 
 👀 I’m interested in deep learning, space exploration, sustainability, rocketry, longevity, investing, data from my life and technology in general
 
-🌱 I’m currently learning about .NET/C#, data mining, and state-of-the-art computer vision models
+🌱 I’m currently learning about .NET/C# and data analytics
 
 😒 Most of my interesting code has to be kept private for now, stay tuned...
 
