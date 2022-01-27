@@ -11,8 +11,6 @@ Twitter: [@kristian_rados](twitter.com/kristian_rados) <br>
 LinkedIn: [@kristian-rados](www.linkedin.com/in/kristian-rados/) <br>
 Email: kristianrados40@gmail.com
 
-⚠ *Older repositories from university assignments are not representative of my current Git practices, as my effective use of Git has improved significantly over time.*
-
 <!---
 BunningsWarehouseOfficial/BunningsWarehouseOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
