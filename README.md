@@ -2,7 +2,7 @@
 
 👀 I’m interested in deep learning, economic and environmental sustainability, space exploration and rocketry, longevity, investing, data from my life, and technology in general.
 
-🌱 I’m currently learning about data analytics at Water Corporation and starting my honours thesis.
+🌱 I’m currently learning about object detection with deep learning while working on my honours thesis.
 
 ⭐ Here is a [digital poster presentation](https://www.canva.com/design/DAEmSS8rvJA/ZwClY39g-0kAISAOSOYUXw/view?utm_content=DAEmSS8rvJA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#1) summarising my 2021 work on Synthetic Dataset Generation for Traffic Sign Damage Detection. I will be continuing this research, spending >3/4 of my university time on it in 2022 as part of my honours. Note that only 21.8% of my university time in 2021 was spent on this project. Unfortunately, I cannot (yet) make the code public.
 
