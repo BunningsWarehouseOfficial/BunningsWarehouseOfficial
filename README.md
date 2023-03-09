@@ -1,4 +1,4 @@
-👋 Hi, I’m Kristian, Advanced Science (Honours) student of software engineering at Curtin University.
+👋 Hi, I’m Kristian, Curtin University Advanced Science (Honours) graduate and current software engineer.
 
 👀 I’m interested in deep learning, economic and environmental sustainability, space exploration and rocketry, longevity, investing, data from my life, and technology in general.
 
