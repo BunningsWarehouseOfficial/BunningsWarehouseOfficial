@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning about Svelte and microservices, among other things.
 
-⭐ I finished my [honours thesis](https://drive.google.com/file/d/1ga3G7J4nosSUuaum6RhyoEhmde9-34tc/view) on synthetic dataset generation for traffic sign detection at the end of 2022 (although I do want to revise it and continue work on the project). Here is a [digital poster presentation](https://www.canva.com/design/DAEmSS8rvJA/ZwClY39g-0kAISAOSOYUXw/view?utm_content=DAEmSS8rvJA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#1) summarising my 2021 work on the same project (where I had ~1/3 of the time).
+⭐ I finished my [honours thesis](https://drive.google.com/file/d/1ga3G7J4nosSUuaum6RhyoEhmde9-34tc/view) on synthetic dataset generation for traffic sign detection at the end of 2022 (although I do want to revise it and continue work on the project). Here is a [digital poster presentation](https://www.canva.com/design/DAEmSS8rvJA/ZwClY39g-0kAISAOSOYUXw/view?utm_content=DAEmSS8rvJA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#1) summarising my 2021 work on the same project (where I had ~1/3 of the time). During the thesis I wrote a conference paper, for which the now rather out-of-date code can be found [in this repo](https://github.com/dsphamgithub/tsda) (the most recent code and experiments have yet to be published).
 
 📫 Contact: <br>
 Twitter: [@kristian_rados](twitter.com/kristian_rados) <br>
