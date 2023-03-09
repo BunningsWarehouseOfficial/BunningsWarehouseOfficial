@@ -11,7 +11,7 @@ Twitter: [@kristian_rados](twitter.com/kristian_rados) <br>
 LinkedIn: [@kristian-rados](www.linkedin.com/in/kristian-rados/) <br>
 Email: kristianrados40@gmail.com
 
-⚠ *Due to the stressful nature of university assignments, their repos below have lacklustre documentation. However, each one will have an assignment specification in the form of a PDF or MD file. A quick skim read or ctrl+F search should clear up any confusion.*
+  ⚠ *Due to the stressful nature of university assignments, their repos below have lacklustre documentation. However, each one should have an assignment specification in the form of a PDF or MD file. A quick skim read or ctrl+F search should clear up any confusion.*
 
 <!---
 BunningsWarehouseOfficial/BunningsWarehouseOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
