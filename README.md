@@ -8,7 +8,7 @@
 LinkedIn: [@kristian-rados](www.linkedin.com/in/kristian-rados/) <br>
 Twitter: [@kristian_rados](twitter.com/kristian_rados) <br>
 
-  ⚠ *My public university assignments should at least have assignment specifications in the form of PDF or MD files.*
+  ⚠ *My public university assignments should have PDF or MD assignment specifications.*
 
 <!---
 BunningsWarehouseOfficial/BunningsWarehouseOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
